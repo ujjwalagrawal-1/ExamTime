@@ -30,6 +30,10 @@
     "pdf-image": "^2.0.0",
     "pdftopic": "^1.0.1-alpha",
     "sharp": "^0.33.1",
-    "unique-filename": "^3.0.0"
+    "unique-filename": "^3.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
